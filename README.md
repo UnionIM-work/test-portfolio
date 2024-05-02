@@ -2,7 +2,5 @@
 
 Use the commands below to start the project
 
-```js
-npm install
-npm start
-```
+- npm install
+- npm start
