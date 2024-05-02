@@ -1,24 +1,31 @@
 export const data = {
-  name: "Danylo",
-  full_name: "Danylo Goncharov",
+  name: "Maksym",
+  full_name: "Maksym Markush",
   projects: [
     {
-      title: "My first project",
+      title: "Bringly",
       icon: "https://cdn4.iconfinder.com/data/icons/technology-83/1000/app_frontend_end_front_front-end_front_end_development-512.png",
+      link: "https://www.bringly.nl/",
       description:
-        "Our React project is an interactive platform designed for idea and knowledge exchange, allowing users to create, discuss, and share articles and messages in a user-friendly and engaging interface.",
+        "Used to work on A startup in the Netherlands for delivery using an environmentally friendly mode of transport (bicycles, electric cars).\n" +
+        "React, Express, TypeScript, Firebase, PostgreSql, Docker, Material-ui, Jest, testcafe.js",
     },
     {
-      title: "My second project",
+      title: "Engaged-md",
       icon: null,
+      link: "https://engaged-md.com",
       description:
-        "A React-based platform facilitating collaborative content creation, where users can effortlessly craft, explore, and exchange articles and ideas, fostering a dynamic and inclusive community.",
+        "I have used Material UI framework customization as well. Some of the tasks I have done on this project. Created React components based on design spec. Use team-approved frameworks (Material Design). Develop application state management and state sharing (Redux). Developer application data management, pagination, session integration (Pull data from existing APIs).",
     },
     {
-      title: "My third project",
+      title: "Izenda",
       icon: "https://static.thenounproject.com/png/487779-200.png",
+      link: "https://www.izenda.com/",
       description:
-        "An innovative React project aimed at fostering collaboration and knowledge sharing, empowering users to create, discuss, and disseminate articles and insights within a vibrant and interactive online ecosystem.",
+        "On my last project I was developing the front-end of a complex SPA with React\n" +
+        "Some of the tasks I have done on this project:\n" +
+        "- Created React components based on design spec\n" +
+        "- Development application data management (interaction with an existing APIs)",
     },
   ],
 };

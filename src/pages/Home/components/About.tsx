@@ -13,8 +13,8 @@ const About = () => {
             <h2 className={"text-xl"}>Front-end developer </h2>
           </div>
           <p className={"max-w-[300px]"}>
-            A React and TypeScript developer crafts dynamic web applications
-            with high performance and clean code.
+            Building dynamic web apps with React and TypeScript for seamless
+            user experiences.
           </p>
         </div>
         <img
